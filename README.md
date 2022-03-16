@@ -1,5 +1,5 @@
 # Attrition-Detection
-                                                                              Attrition
+                                                             # Attrition
 Attriton refers to the process of downsizing the workforce of a company 
 we can say that attrition is a gradual voluntary reduction of employees (through resignation and retirement )who are not then replaced. This means that attrition decrease the size of the workforce
 
